@@ -22,12 +22,10 @@
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white>    
- </p>
+</p>
+    
+##
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only
-<!---
-Pratik-S74/Pratik-S74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Overview](https://raw.githubusercontent.com/Pratik-S74/stats/master/generated/overview.svg)
+![Languages](https://raw.githubusercontent.com/Pratik-S74/stats/master/generated/languages.svg)
