@@ -4,7 +4,6 @@
 - I'm eagerly looking forward to collaborating on projects that not only refine my existing skills but also offer opportunities for continuous upskilling.
 - You can connect with me [Here](https://www.linkedin.com/in/pratik-soni-5111a022a/)
 
-
 ## Tools and Technologies
 <p>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
@@ -25,10 +24,9 @@
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white>    
  </p>
 
-[](https://raw.githubusercontent.com/Pratik-S74/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-[](https://raw.githubusercontent.com/Pratik-S74/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/Pratik-S74/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Pratik-S74/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
+https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only
 <!---
 Pratik-S74/Pratik-S74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
